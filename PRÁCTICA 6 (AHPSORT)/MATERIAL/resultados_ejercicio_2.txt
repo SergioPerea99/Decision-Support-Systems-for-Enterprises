@@ -1,0 +1,332 @@
+Prioridad CP1 = [0.248480424, 0.401907655, 0.181314523, 0.247104247, 0.187687271, 0.24000995531141914]
+Prioridad CP2 = [0.041413404, 0.037678843, 0.01706235, 0.030888031, 0.018768727, 0.03219506797289085]
+Prioridad CP3 = [0.010353351, 0.004984286, 0.001863167, 0.015444015, 0.003209407, 0.008046038819896469]
+
+
+
+
+
+
+ CLASIFICACIÓN GLOBAL DE LAS ALTERNATIVAS RESPECTO A LOS CPs GLOBALES. 
+
+Álava --> P.Global = 0.11116673114635837 ::: Clase = Clase 2 ---- 0.07897166317346752
+Albacete --> P.Global = 0.07034219345503245 ::: Clase = Clase 2 ---- 0.0381471254821416
+Alicante --> P.Global = 0.08180605749617241 ::: Clase = Clase 2 ---- 0.04961098952328156
+Almería --> P.Global = 0.061798766403822064 ::: Clase = Clase 2 ---- 0.029603698430931212
+Ávila --> P.Global = 0.14644830523470587 ::: Clase = Clase 1 ---- 0.09356165007671327
+Badajoz --> P.Global = 0.08524581517098165 ::: Clase = Clase 2 ---- 0.053050747198090796
+Balears --> P.Global = 0.060927407198291504 ::: Clase = Clase 2 ---- 0.028732339225400652
+Barcelona --> P.Global = 0.06238835109449304 ::: Clase = Clase 2 ---- 0.030193283121602188
+Burgos --> P.Global = 0.20633287413427276 ::: Clase = Clase 1 ---- 0.03367708117714638
+Cáceres --> P.Global = 0.10047074500940335 ::: Clase = Clase 2 ---- 0.0682756770365125
+Cádiz --> P.Global = 0.03748262499594662 ::: Clase = Clase 2 ---- 0.005287557023055771
+Castellón --> P.Global = 0.07803254362511729 ::: Clase = Clase 2 ---- 0.045837475652226435
+Ciudad Real --> P.Global = 0.0811524761373497 ::: Clase = Clase 2 ---- 0.04895740816445885
+Córdoba --> P.Global = 0.08566479210302265 ::: Clase = Clase 2 ---- 0.0534697241301318
+Coruña --> P.Global = 0.09047972272520077 ::: Clase = Clase 2 ---- 0.05828465475230992
+Cuenca --> P.Global = 0.19980410336010382 ::: Clase = Clase 1 ---- 0.04020585195131532
+Girona --> P.Global = 0.06243827956456041 ::: Clase = Clase 2 ---- 0.03024321159166956
+Granada --> P.Global = 0.06326376990592907 ::: Clase = Clase 2 ---- 0.031068701933038213
+Guadalajara --> P.Global = 0.13011125157952116 ::: Clase = Clase 2 ---- 0.09791618360663032
+Gipuzkoa --> P.Global = 0.09897772927664772 ::: Clase = Clase 2 ---- 0.06678266130375687
+Huelva --> P.Global = 0.1166825272257393 ::: Clase = Clase 2 ---- 0.08448745925284845
+Huesca --> P.Global = 0.08536283167244979 ::: Clase = Clase 2 ---- 0.05316776369955894
+Jaén --> P.Global = 0.09261587492752257 ::: Clase = Clase 2 ---- 0.06042080695463172
+León --> P.Global = 0.09712511680615302 ::: Clase = Clase 2 ---- 0.06493004883326217
+Lleida --> P.Global = 0.05791010657419607 ::: Clase = Clase 2 ---- 0.025715038601305217
+Rioja --> P.Global = 0.10134216169625912 ::: Clase = Clase 2 ---- 0.06914709372336827
+Lugo --> P.Global = 0.16670131216248943 ::: Clase = Clase 1 ---- 0.07330864314892971
+Madrid --> P.Global = 0.06968424500442064 ::: Clase = Clase 2 ---- 0.037489177031529784
+Málaga --> P.Global = 0.05715582818840874 ::: Clase = Clase 2 ---- 0.024960760215517887
+Murcia --> P.Global = 0.056103652811609124 ::: Clase = Clase 2 ---- 0.023908584838718272
+Navarra --> P.Global = 0.03538078012698379 ::: Clase = Clase 2 ---- 0.00318571215409294
+Ourense --> P.Global = 0.11784755104315492 ::: Clase = Clase 2 ---- 0.08565248307026407
+Asturias --> P.Global = 0.10197410046150572 ::: Clase = Clase 2 ---- 0.06977903248861486
+Palencia --> P.Global = 0.2579065727471771 ::: Clase = Clase 1 ---- 0.01789661743575796
+Palmas --> P.Global = 0.06407577823392528 ::: Clase = Clase 2 ---- 0.03188071026103443
+Pontevedra --> P.Global = 0.10811368339170141 ::: Clase = Clase 2 ---- 0.07591861541881056
+Salamanca --> P.Global = 0.09299606812927887 ::: Clase = Clase 2 ---- 0.060801000156388015
+Santa Cruz --> P.Global = 0.055209652221442904 ::: Clase = Clase 2 ---- 0.02301458424855205
+Cantabria --> P.Global = 0.11487787794677462 ::: Clase = Clase 2 ---- 0.08268280997388378
+Segovia --> P.Global = 0.1458448664240452 ::: Clase = Clase 1 ---- 0.09416508888737393
+Sevilla --> P.Global = 0.048881809069490856 ::: Clase = Clase 2 ---- 0.016686741096600004
+Soria --> P.Global = 0.25789319852335235 ::: Clase = Clase 1 ---- 0.017883243211933214
+Tarragona --> P.Global = 0.0636009650171116 ::: Clase = Clase 2 ---- 0.03140589704422075
+Teruel --> P.Global = 0.06695730334434619 ::: Clase = Clase 2 ---- 0.034762235371455334
+Toledo --> P.Global = 0.06751386131176604 ::: Clase = Clase 2 ---- 0.035318793338875186
+Valencia --> P.Global = 0.05566236367060735 ::: Clase = Clase 2 ---- 0.023467295697716495
+Valladolid --> P.Global = 0.08895374835739671 ::: Clase = Clase 2 ---- 0.05675868038450586
+Bizkaia --> P.Global = 0.11952411013871185 ::: Clase = Clase 2 ---- 0.08732904216582099
+Zamora --> P.Global = 0.10392938005708928 ::: Clase = Clase 2 ---- 0.07173431208419842
+Zaragoza --> P.Global = 0.12063459531860925 ::: Clase = Clase 2 ---- 0.08843952734571839
+Ceuta --> P.Global = 0.0030332156021011403 ::: Clase = Clase 3 ---- 0.005012823217795328
+Melilla --> P.Global = 0.004845923750796601 ::: Clase = Clase 3 ---- 0.0032001150690998672
+
+
+
+ CLASIFICACIÓN LOCAL POR CADA UNO DE LOS CRITERIOS RESPECTO A LOS CPs CORRESPONDIENTES A CADA CRITERIO.
+CRITERIO --> Crímenes:
+Álava --> P.Local = 0.13856628071197508 ::: Clase = Clase 2 ---- 0.09715287671197508
+Albacete --> P.Local = 0.10241726561370462 ::: Clase = Clase 2 ---- 0.06100386161370462
+Alicante --> P.Local = 0.1488198911685008 ::: Clase = Clase 1 ---- 0.0996605328314992
+Almería --> P.Local = 0.10241726561370462 ::: Clase = Clase 2 ---- 0.06100386161370462
+Ávila --> P.Local = 0.2308487748207068 ::: Clase = Clase 1 ---- 0.01763164917929322
+Badajoz --> P.Local = 0.11403152974654569 ::: Clase = Clase 2 ---- 0.07261812574654569
+Balears --> P.Local = 0.10532083164691489 ::: Clase = Clase 2 ---- 0.06390742764691489
+Barcelona --> P.Local = 0.09080300148086357 ::: Clase = Clase 2 ---- 0.049389597480863565
+Burgos --> P.Local = 0.3922689872800972 ::: Clase = Clase 1 ---- 0.14378856328009718
+Cáceres --> P.Local = 0.11112796371333541 ::: Clase = Clase 2 ---- 0.06971455971333541
+Cádiz --> P.Local = 0.050398982132911815 ::: Clase = Clase 2 ---- 0.008985578132911815
+Castellón --> P.Local = 0.12854935991259703 ::: Clase = Clase 2 ---- 0.08713595591259703
+Ciudad Real --> P.Local = 0.10532083164691489 ::: Clase = Clase 2 ---- 0.06390742764691489
+Córdoba --> P.Local = 0.12564579387938674 ::: Clase = Clase 2 ---- 0.08423238987938673
+Coruña --> P.Local = 0.12854935991259703 ::: Clase = Clase 2 ---- 0.08713595591259703
+Cuenca --> P.Local = 0.35276904813349524 ::: Clase = Clase 1 ---- 0.10428862413349524
+Girona --> P.Local = 0.10532083164691489 ::: Clase = Clase 2 ---- 0.06390742764691489
+Granada --> P.Local = 0.0966101335472841 ::: Clase = Clase 2 ---- 0.05519672954728409
+Guadalajara --> P.Local = 0.2308487748207068 ::: Clase = Clase 1 ---- 0.01763164917929322
+Gipuzkoa --> P.Local = 0.12564579387938674 ::: Clase = Clase 2 ---- 0.08423238987938673
+Huelva --> P.Local = 0.20008794345112954 ::: Clase = Clase 1 ---- 0.048392480548870465
+Huesca --> P.Local = 0.09370656751407383 ::: Clase = Clase 2 ---- 0.05229316351407383
+Jaén --> P.Local = 0.12274222784617647 ::: Clase = Clase 2 ---- 0.08132882384617647
+León --> P.Local = 0.13856628071197508 ::: Clase = Clase 2 ---- 0.09715287671197508
+Lleida --> P.Local = 0.06910160470028967 ::: Clase = Clase 2 ---- 0.02768820070028967
+Rioja --> P.Local = 0.15907350162502654 ::: Clase = Clase 1 ---- 0.08940692237497347
+Lugo --> P.Local = 0.2737691698402914 ::: Clase = Clase 1 ---- 0.02528874584029142
+Madrid --> P.Local = 0.12564579387938674 ::: Clase = Clase 2 ---- 0.08423238987938673
+Málaga --> P.Local = 0.09370656751407383 ::: Clase = Clase 2 ---- 0.05229316351407383
+Murcia --> P.Local = 0.08209230338123275 ::: Clase = Clase 2 ---- 0.040678899381232744
+Navarra --> P.Local = 0.030151428466371755 ::: Clase = Clase 2 ---- 0.011261975533628246
+Ourense --> P.Local = 0.15907350162502654 ::: Clase = Clase 1 ---- 0.08940692237497347
+Asturias --> P.Local = 0.1488198911685008 ::: Clase = Clase 1 ---- 0.0996605328314992
+Palencia --> P.Local = 0.451518896 ::: Clase = Clase 1 ---- 0.203038472
+Palmas --> P.Local = 0.09951369958049434 ::: Clase = Clase 2 ---- 0.05810029558049434
+Pontevedra --> P.Local = 0.16932711208155232 ::: Clase = Clase 1 ---- 0.07915331191844768
+Salamanca --> P.Local = 0.12854935991259703 ::: Clase = Clase 2 ---- 0.08713595591259703
+Santa Cruz --> P.Local = 0.08499586941444302 ::: Clase = Clase 2 ---- 0.04358246541444302
+Cantabria --> P.Local = 0.17958072253807805 ::: Clase = Clase 1 ---- 0.06889970146192195
+Segovia --> P.Local = 0.22059516436418103 ::: Clase = Clase 1 ---- 0.027885259635818976
+Sevilla --> P.Local = 0.06910160470028967 ::: Clase = Clase 2 ---- 0.02768820070028967
+Soria --> P.Local = 0.451518896 ::: Clase = Clase 1 ---- 0.203038472
+Tarragona --> P.Local = 0.10532083164691489 ::: Clase = Clase 2 ---- 0.06390742764691489
+Teruel --> P.Local = 0.014914900292585697 ::: Clase = Clase 3 ---- 0.004561549292585697
+Toledo --> P.Local = 0.09370656751407383 ::: Clase = Clase 2 ---- 0.05229316351407383
+Valencia --> P.Local = 0.08789943544765329 ::: Clase = Clase 2 ---- 0.04648603144765329
+Valladolid --> P.Local = 0.10822439768012515 ::: Clase = Clase 2 ---- 0.06681099368012515
+Bizkaia --> P.Local = 0.16932711208155232 ::: Clase = Clase 1 ---- 0.07915331191844768
+Zamora --> P.Local = 0.13145292594580726 ::: Clase = Clase 2 ---- 0.09003952194580726
+Zaragoza --> P.Local = 0.21034155390765527 ::: Clase = Clase 1 ---- 0.038138870092344734
+Ceuta --> P.Local = 1.06 ::: Clase = Clase 1 ---- 0.811519576
+Melilla --> P.Local = 0.00832715726113576 ::: Clase = Clase 3 ---- 0.0020261937388642397
+CRITERIO --> Robos:
+Álava --> P.Local = 0.023884104431107882 ::: Clase = Clase 2 ---- 0.013794738568892115
+Albacete --> P.Local = 0.0320935195445305 ::: Clase = Clase 2 ---- 0.005585323455469499
+Alicante --> P.Local = 0.003253583118388425 ::: Clase = Clase 3 ---- 0.0017307028816115752
+Almería --> P.Local = 0.012955905833354032 ::: Clase = Clase 3 ---- 0.00797161983335403
+Ávila --> P.Local = 0.05936605818855705 ::: Clase = Clase 2 ---- 0.021687215188557055
+Badajoz --> P.Local = 0.04194697675817301 ::: Clase = Clase 2 ---- 0.004268133758173011
+Balears --> P.Local = 0.0010810772013539257 ::: Clase = Clase 3 ---- 0.0039032087986460746
+Barcelona --> P.Local = 9.226235741277703E-4 ::: Clase = Clase 3 ---- 0.00406166242587223
+Burgos --> P.Local = 0.037678843 ::: Clase = Clase 2 ---- 0.0
+Cáceres --> P.Local = 0.09082741019801707 ::: Clase = Clase 2 ---- 0.053148567198017076
+Cádiz --> P.Local = 0.022382686686029447 ::: Clase = Clase 2 ---- 0.01529615631397055
+Castellón --> P.Local = 0.01083163137067272 ::: Clase = Clase 3 ---- 0.005847345370672719
+Ciudad Real --> P.Local = 0.05654181638564483 ::: Clase = Clase 2 ---- 0.018862973385644834
+Córdoba --> P.Local = 0.031846924946066474 ::: Clase = Clase 2 ---- 0.005831918053933523
+Coruña --> P.Local = 0.03970161681548503 ::: Clase = Clase 2 ---- 0.002022773815485032
+Cuenca --> P.Local = 0.037678843 ::: Clase = Clase 2 ---- 0.0
+Girona --> P.Local = 0.0031083283035708608 ::: Clase = Clase 3 ---- 0.0018759576964291393
+Granada --> P.Local = 0.023862254276813603 ::: Clase = Clase 2 ---- 0.013816588723186394
+Guadalajara --> P.Local = 0.03042354346632476 ::: Clase = Clase 2 ---- 0.007255299533675236
+Gipuzkoa --> P.Local = 0.03472802386229806 ::: Clase = Clase 2 ---- 0.0029508191377019335
+Huelva --> P.Local = 0.0217989754213108 ::: Clase = Clase 2 ---- 0.015879867578689196
+Huesca --> P.Local = 0.07515374528558187 ::: Clase = Clase 2 ---- 0.037474902285581875
+Jaén --> P.Local = 0.07011922728908618 ::: Clase = Clase 2 ---- 0.03244038428908618
+León --> P.Local = 0.03691928219295308 ::: Clase = Clase 2 ---- 7.595608070469148E-4
+Lleida --> P.Local = 0.024386657979876332 ::: Clase = Clase 2 ---- 0.013292185020123665
+Rioja --> P.Local = 0.041236530838806885 ::: Clase = Clase 2 ---- 0.003557687838806889
+Lugo --> P.Local = 0.0860121656334245 ::: Clase = Clase 2 ---- 0.0483333226334245
+Madrid --> P.Local = 0.001289062614936057 ::: Clase = Clase 3 ---- 0.003695223385063943
+Málaga --> P.Local = 0.006444776179937087 ::: Clase = Clase 3 ---- 0.001460490179937087
+Murcia --> P.Local = 0.011853312994321536 ::: Clase = Clase 3 ---- 0.006869026994321536
+Navarra --> P.Local = 0.027573659056227856 ::: Clase = Clase 2 ---- 0.01010518394377214
+Ourense --> P.Local = 0.07422402593431263 ::: Clase = Clase 2 ---- 0.03654518293431263
+Asturias --> P.Local = 0.06856677139121209 ::: Clase = Clase 2 ---- 0.030887928391212092
+Palencia --> P.Local = 0.08217049510648179 ::: Clase = Clase 2 ---- 0.044491652106481795
+Palmas --> P.Local = 0.02214545643940583 ::: Clase = Clase 2 ---- 0.015533386560594168
+Pontevedra --> P.Local = 0.04392043764530111 ::: Clase = Clase 2 ---- 0.006241594645301114
+Salamanca --> P.Local = 0.036604015680992745 ::: Clase = Clase 2 ---- 0.0010748273190072516
+Santa Cruz --> P.Local = 0.008690298652614241 ::: Clase = Clase 3 ---- 0.003706012652614241
+Cantabria --> P.Local = 0.03764658018589129 ::: Clase = Clase 2 ---- 3.226281410870918E-5
+Segovia --> P.Local = 0.06224292561512602 ::: Clase = Clase 2 ---- 0.02456408261512602
+Sevilla --> P.Local = 0.008071380408760008 ::: Clase = Clase 3 ---- 0.003087094408760008
+Soria --> P.Local = 0.06102376533374466 ::: Clase = Clase 2 ---- 0.02334492233374466
+Tarragona --> P.Local = 0.005364001859638874 ::: Clase = Clase 3 ---- 3.7971585963887406E-4
+Teruel --> P.Local = 0.12581572903691196 ::: Clase = Clase 2 ---- 0.08813688603691197
+Toledo --> P.Local = 0.01582139749651828 ::: Clase = Clase 3 ---- 0.010837111496518278
+Valencia --> P.Local = 0.008015397854039532 ::: Clase = Clase 3 ---- 0.003031111854039532
+Valladolid --> P.Local = 0.036501007810748276 ::: Clase = Clase 2 ---- 0.0011778351892517205
+Bizkaia --> P.Local = 0.008309306266322066 ::: Clase = Clase 3 ---- 0.0033250202663220657
+Zamora --> P.Local = 0.0544894170630316 ::: Clase = Clase 2 ---- 0.016810574063031603
+Zaragoza --> P.Local = 0.034525129572422604 ::: Clase = Clase 2 ---- 0.0031537134275773926
+Ceuta --> P.Local = 0.030660773712948376 ::: Clase = Clase 2 ---- 0.00701806928705162
+Melilla --> P.Local = 0.004886387241578633 ::: Clase = Clase 3 ---- 9.789875842136728E-5
+CRITERIO --> Relacionado con Vehículos:
+Álava --> P.Local = 0.5566124586775986 ::: Clase = Clase 1 ---- 0.37529793567759856
+Albacete --> P.Local = 0.11980187426602813 ::: Clase = Clase 1 ---- 0.06151264873397187
+Alicante --> P.Local = 0.017891006237592495 ::: Clase = Clase 2 ---- 8.286562375924948E-4
+Almería --> P.Local = 0.024978067081184052 ::: Clase = Clase 2 ---- 0.007915717081184052
+Ávila --> P.Local = 0.2714104624275393 ::: Clase = Clase 1 ---- 0.0900959394275393
+Badajoz --> P.Local = 0.1279139843199592 ::: Clase = Clase 1 ---- 0.0534005386800408
+Balears --> P.Local = 0.008643399369296537 ::: Clase = Clase 3 ---- 0.0067802323692965375
+Barcelona --> P.Local = 0.004922217885010949 ::: Clase = Clase 3 ---- 0.003059050885010949
+Burgos --> P.Local = 0.11019542814953084 ::: Clase = Clase 1 ---- 0.07111909485046916
+Cáceres --> P.Local = 0.31700225578900526 ::: Clase = Clase 1 ---- 0.13568773278900526
+Cádiz --> P.Local = 0.022252274449033455 ::: Clase = Clase 2 ---- 0.005189924449033455
+Castellón --> P.Local = 0.05452182341912957 ::: Clase = Clase 2 ---- 0.03745947341912957
+Ciudad Real --> P.Local = 0.13026222670399185 ::: Clase = Clase 1 ---- 0.05105229629600816
+Córdoba --> P.Local = 0.056067392993575396 ::: Clase = Clase 2 ---- 0.03900504299357539
+Coruña --> P.Local = 0.07983718713850098 ::: Clase = Clase 2 ---- 0.06277483713850097
+Cuenca --> P.Local = 0.0934275402931109 ::: Clase = Clase 2 ---- 0.0763651902931109
+Girona --> P.Local = 0.005587219899312939 ::: Clase = Clase 3 ---- 0.0037240528993129395
+Granada --> P.Local = 0.03618817053604795 ::: Clase = Clase 2 ---- 0.019125820536047947
+Guadalajara --> P.Local = 0.04183749380816029 ::: Clase = Clase 2 ---- 0.02477514380816029
+Gipuzkoa --> P.Local = 0.4634025700274904 ::: Clase = Clase 1 ---- 0.2820880470274904
+Huelva --> P.Local = 0.028326898029254796 ::: Clase = Clase 2 ---- 0.011264548029254796
+Huesca --> P.Local = 0.3038312932623596 ::: Clase = Clase 1 ---- 0.12251677026235958
+Jaén --> P.Local = 0.1443516810081879 ::: Clase = Clase 1 ---- 0.0369628419918121
+León --> P.Local = 0.1541716037050518 ::: Clase = Clase 1 ---- 0.027142919294948192
+Lleida --> P.Local = 0.031231688797307852 ::: Clase = Clase 2 ---- 0.014169338797307852
+Rioja --> P.Local = 0.17210363645584678 ::: Clase = Clase 1 ---- 0.009210886544153224
+Lugo --> P.Local = 0.17402492567914624 ::: Clase = Clase 1 ---- 0.007289597320853769
+Madrid --> P.Local = 0.0017415046239044737 ::: Clase = Clase 3 ---- 1.2166237609552628E-4
+Málaga --> P.Local = 0.010946440288286225 ::: Clase = Clase 2 ---- 0.006115909711713776
+Murcia --> P.Local = 0.023693050554598773 ::: Clase = Clase 2 ---- 0.006630700554598773
+Navarra --> P.Local = 0.10613937312256533 ::: Clase = Clase 1 ---- 0.07517514987743468
+Ourense --> P.Local = 0.29015375525391973 ::: Clase = Clase 1 ---- 0.10883923225391973
+Asturias --> P.Local = 0.22885812195683775 ::: Clase = Clase 1 ---- 0.04754359895683774
+Palencia --> P.Local = 0.460363117136726 ::: Clase = Clase 1 ---- 0.279048594136726
+Palmas --> P.Local = 0.035548624505242765 ::: Clase = Clase 2 ---- 0.018486274505242765
+Pontevedra --> P.Local = 0.093480835795678 ::: Clase = Clase 2 ---- 0.07641848579567799
+Salamanca --> P.Local = 0.11254367053356351 ::: Clase = Clase 1 ---- 0.0687708524664365
+Santa Cruz --> P.Local = 0.015642974829891007 ::: Clase = Clase 2 ---- 0.0014193751701089934
+Cantabria --> P.Local = 0.1277005077395926 ::: Clase = Clase 1 ---- 0.053614015260407405
+Segovia --> P.Local = 0.3367586995789738 ::: Clase = Clase 1 ---- 0.1554441765789738
+Sevilla --> P.Local = 0.002637157772037103 ::: Clase = Clase 3 ---- 7.739907720371029E-4
+Soria --> P.Local = 0.2830616985088028 ::: Clase = Clase 1 ---- 0.1017471755088028
+Tarragona --> P.Local = 0.008975900376447531 ::: Clase = Clase 3 ---- 0.0071127333764475316
+Teruel --> P.Local = 0.5130469672433089 ::: Clase = Clase 1 ---- 0.3317324442433089
+Toledo --> P.Local = 0.037254080587389896 ::: Clase = Clase 2 ---- 0.020191730587389895
+Valencia --> P.Local = 0.02509488676541908 ::: Clase = Clase 2 ---- 0.008032536765419079
+Valladolid --> P.Local = 0.19643729112201747 ::: Clase = Clase 1 ---- 0.01512276812201746
+Bizkaia --> P.Local = 0.4016003612486143 ::: Clase = Clase 1 ---- 0.2202858382486143
+Zamora --> P.Local = 0.2850880004359791 ::: Clase = Clase 1 ---- 0.10377347743597909
+Zaragoza --> P.Local = 0.0862859429491198 ::: Clase = Clase 2 ---- 0.0692235929491198
+Ceuta --> P.Local = 66.27 ::: Clase = Clase 1 ---- 66.088685477
+Melilla --> P.Local = 0.001410474839755035 ::: Clase = Clase 3 ---- 4.5269216024496507E-4
+CRITERIO --> Orden Público:
+Álava --> P.Local = 0.1196808042721564 ::: Clase = Clase 2 ---- 0.0887927732721564
+Albacete --> P.Local = 0.11415758705814955 ::: Clase = Clase 2 ---- 0.08326955605814955
+Alicante --> P.Local = 0.09474742370606834 ::: Clase = Clase 2 ---- 0.06385939270606834
+Almería --> P.Local = 0.09885038506504486 ::: Clase = Clase 2 ---- 0.06796235406504486
+Ávila --> P.Local = 0.16222485658757863 ::: Clase = Clase 1 ---- 0.08487939041242137
+Badajoz --> P.Local = 0.18455565681513336 ::: Clase = Clase 1 ---- 0.06254859018486664
+Balears --> P.Local = 0.09569426094275524 ::: Clase = Clase 2 ---- 0.06480622994275524
+Barcelona --> P.Local = 0.16793738687834844 ::: Clase = Clase 1 ---- 0.07916686012165156
+Burgos --> P.Local = 0.12062764150884328 ::: Clase = Clase 2 ---- 0.08973961050884328
+Cáceres --> P.Local = 0.20377053142954094 ::: Clase = Clase 1 ---- 0.043333715570459064
+Cádiz --> P.Local = 0.093327167851038 ::: Clase = Clase 2 ---- 0.06243913685103801
+Castellón --> P.Local = 0.12094325392107225 ::: Clase = Clase 2 ---- 0.09005522292107225
+Ciudad Real --> P.Local = 0.17313059623359373 ::: Clase = Clase 1 ---- 0.07397365076640627
+Córdoba --> P.Local = 0.18247837307303527 ::: Clase = Clase 1 ---- 0.06462587392696473
+Coruña --> P.Local = 0.1954613964611485 ::: Clase = Clase 1 ---- 0.05164285053885151
+Cuenca --> P.Local = 0.23025589914129194 ::: Clase = Clase 1 ---- 0.016848347858708063
+Girona --> P.Local = 0.1086343698441427 ::: Clase = Clase 2 ---- 0.0777463388441427
+Granada --> P.Local = 0.12173228495164465 ::: Clase = Clase 2 ---- 0.09084425395164465
+Guadalajara --> P.Local = 0.15028047507051445 ::: Clase = Clase 1 ---- 0.09682377192948555
+Gipuzkoa --> P.Local = 0.10326895883625034 ::: Clase = Clase 2 ---- 0.07238092783625034
+Huelva --> P.Local = 0.1705339915559711 ::: Clase = Clase 1 ---- 0.0765702554440289
+Huesca --> P.Local = 0.16118621471652958 ::: Clase = Clase 1 ---- 0.08591803228347042
+Jaén --> P.Local = 0.18559429868618244 ::: Clase = Clase 1 ---- 0.061509948313817564
+León --> P.Local = 0.1793624474598881 ::: Clase = Clase 1 ---- 0.06774179954011189
+Lleida --> P.Local = 0.18767158242828055 ::: Clase = Clase 1 ---- 0.059432664571719446
+Rioja --> P.Local = 0.1222057035699881 ::: Clase = Clase 2 ---- 0.0913176725699881
+Lugo --> P.Local = 0.19130682897695225 ::: Clase = Clase 1 ---- 0.055797418023047746
+Madrid --> P.Local = 0.0925381368204656 ::: Clase = Clase 2 ---- 0.06165010582046561
+Málaga --> P.Local = 0.10500482710350964 ::: Clase = Clase 2 ---- 0.07411679610350964
+Murcia --> P.Local = 0.1326235632626805 ::: Clase = Clase 2 ---- 0.10173553226268049
+Navarra --> P.Local = 0.11321074982146265 ::: Clase = Clase 2 ---- 0.08232271882146265
+Ourense --> P.Local = 0.1850749777506579 ::: Clase = Clase 1 ---- 0.0620292692493421
+Asturias --> P.Local = 0.1229947346005605 ::: Clase = Clase 2 ---- 0.0921067036005605
+Palencia --> P.Local = 0.13002695858505786 ::: Clase = Clase 2 ---- 0.09913892758505786
+Palmas --> P.Local = 0.11857616082935502 ::: Clase = Clase 2 ---- 0.08768812982935502
+Pontevedra --> P.Local = 0.1741692381046428 ::: Clase = Clase 1 ---- 0.0729350088953572
+Salamanca --> P.Local = 0.20377053142954094 ::: Clase = Clase 1 ---- 0.043333715570459064
+Santa Cruz --> P.Local = 0.11936519185992743 ::: Clase = Clase 2 ---- 0.08847716085992743
+Cantabria --> P.Local = 0.1793624474598881 ::: Clase = Clase 1 ---- 0.06774179954011189
+Segovia --> P.Local = 0.16534078220072582 ::: Clase = Clase 1 ---- 0.08176346479927418
+Sevilla --> P.Local = 0.13522016794030312 ::: Clase = Clase 2 ---- 0.10433213694030312
+Soria --> P.Local = 0.22765929446366928 ::: Clase = Clase 1 ---- 0.019444952536330717
+Tarragona --> P.Local = 0.11542003670706541 ::: Clase = Clase 2 ---- 0.08453200570706541
+Teruel --> P.Local = 0.1850749777506579 ::: Clase = Clase 1 ---- 0.0620292692493421
+Toledo --> P.Local = 0.17468855904016733 ::: Clase = Clase 1 ---- 0.07241568795983266
+Valencia --> P.Local = 0.10768753260745581 ::: Clase = Clase 2 ---- 0.07679950160745581
+Valladolid --> P.Local = 0.21104102452688436 ::: Clase = Clase 1 ---- 0.036063222473115636
+Bizkaia --> P.Local = 0.15183843787708806 ::: Clase = Clase 1 ---- 0.09526580912291194
+Zamora --> P.Local = 0.19234547084800133 ::: Clase = Clase 1 ---- 0.05475877615199867
+Zaragoza --> P.Local = 0.1274303539074352 ::: Clase = Clase 2 ---- 0.09654232290743521
+Ceuta --> P.Local = 0.004712560176362143 ::: Clase = Clase 3 ---- 0.010731454823637857
+Melilla --> P.Local = 0.00415037554801692 ::: Clase = Clase 3 ---- 0.01129363945198308
+CRITERIO --> Drogas:
+Álava --> P.Local = 0.11116673114635837 ::: Clase = Clase 1 ---- 0.07652053985364161
+Albacete --> P.Local = 0.07034219345503245 ::: Clase = Clase 2 ---- 0.051573466455032455
+Alicante --> P.Local = 0.08180605749617241 ::: Clase = Clase 2 ---- 0.06303733049617241
+Almería --> P.Local = 0.061798766403822064 ::: Clase = Clase 2 ---- 0.043030039403822065
+Ávila --> P.Local = 0.14644830523470587 ::: Clase = Clase 1 ---- 0.04123896576529412
+Badajoz --> P.Local = 0.08524581517098165 ::: Clase = Clase 2 ---- 0.06647708817098165
+Balears --> P.Local = 0.060927407198291504 ::: Clase = Clase 2 ---- 0.042158680198291505
+Barcelona --> P.Local = 0.06238835109449304 ::: Clase = Clase 2 ---- 0.04361962409449304
+Burgos --> P.Local = 0.20633287413427276 ::: Clase = Clase 1 ---- 0.01864560313427277
+Cáceres --> P.Local = 0.10047074500940335 ::: Clase = Clase 2 ---- 0.08170201800940335
+Cádiz --> P.Local = 0.03748262499594662 ::: Clase = Clase 2 ---- 0.018713897995946624
+Castellón --> P.Local = 0.07803254362511729 ::: Clase = Clase 2 ---- 0.05926381662511729
+Ciudad Real --> P.Local = 0.0811524761373497 ::: Clase = Clase 2 ---- 0.0623837491373497
+Córdoba --> P.Local = 0.08566479210302265 ::: Clase = Clase 2 ---- 0.06689606510302265
+Coruña --> P.Local = 0.09047972272520077 ::: Clase = Clase 2 ---- 0.07171099572520077
+Cuenca --> P.Local = 0.19980410336010382 ::: Clase = Clase 1 ---- 0.01211683236010383
+Girona --> P.Local = 0.06243827956456041 ::: Clase = Clase 2 ---- 0.04366955256456041
+Granada --> P.Local = 0.06326376990592907 ::: Clase = Clase 2 ---- 0.044495042905929066
+Guadalajara --> P.Local = 0.13011125157952116 ::: Clase = Clase 1 ---- 0.057576019420478824
+Gipuzkoa --> P.Local = 0.09897772927664772 ::: Clase = Clase 2 ---- 0.08020900227664772
+Huelva --> P.Local = 0.1166825272257393 ::: Clase = Clase 1 ---- 0.07100474377426069
+Huesca --> P.Local = 0.08536283167244979 ::: Clase = Clase 2 ---- 0.06659410467244979
+Jaén --> P.Local = 0.09261587492752257 ::: Clase = Clase 2 ---- 0.07384714792752257
+León --> P.Local = 0.09712511680615302 ::: Clase = Clase 2 ---- 0.07835638980615302
+Lleida --> P.Local = 0.05791010657419607 ::: Clase = Clase 2 ---- 0.03914137957419607
+Rioja --> P.Local = 0.10134216169625912 ::: Clase = Clase 2 ---- 0.08257343469625912
+Lugo --> P.Local = 0.16670131216248943 ::: Clase = Clase 1 ---- 0.02098595883751056
+Madrid --> P.Local = 0.06968424500442064 ::: Clase = Clase 2 ---- 0.05091551800442064
+Málaga --> P.Local = 0.05715582818840874 ::: Clase = Clase 2 ---- 0.03838710118840874
+Murcia --> P.Local = 0.056103652811609124 ::: Clase = Clase 2 ---- 0.037334925811609125
+Navarra --> P.Local = 0.03538078012698379 ::: Clase = Clase 2 ---- 0.016612053126983793
+Ourense --> P.Local = 0.11784755104315492 ::: Clase = Clase 1 ---- 0.06983971995684507
+Asturias --> P.Local = 0.10197410046150572 ::: Clase = Clase 2 ---- 0.08320537346150572
+Palencia --> P.Local = 0.2579065727471771 ::: Clase = Clase 1 ---- 0.07021930174717711
+Palmas --> P.Local = 0.06407577823392528 ::: Clase = Clase 2 ---- 0.04530705123392528
+Pontevedra --> P.Local = 0.10811368339170141 ::: Clase = Clase 1 ---- 0.07957358760829858
+Salamanca --> P.Local = 0.09299606812927887 ::: Clase = Clase 2 ---- 0.07422734112927887
+Santa Cruz --> P.Local = 0.055209652221442904 ::: Clase = Clase 2 ---- 0.036440925221442905
+Cantabria --> P.Local = 0.11487787794677462 ::: Clase = Clase 1 ---- 0.07280939305322537
+Segovia --> P.Local = 0.1458448664240452 ::: Clase = Clase 1 ---- 0.041842404575954784
+Sevilla --> P.Local = 0.048881809069490856 ::: Clase = Clase 2 ---- 0.030113082069490857
+Soria --> P.Local = 0.25789319852335235 ::: Clase = Clase 1 ---- 0.07020592752335236
+Tarragona --> P.Local = 0.0636009650171116 ::: Clase = Clase 2 ---- 0.0448322380171116
+Teruel --> P.Local = 0.06695730334434619 ::: Clase = Clase 2 ---- 0.04818857634434619
+Toledo --> P.Local = 0.06751386131176604 ::: Clase = Clase 2 ---- 0.04874513431176604
+Valencia --> P.Local = 0.05566236367060735 ::: Clase = Clase 2 ---- 0.03689363667060735
+Valladolid --> P.Local = 0.08895374835739671 ::: Clase = Clase 2 ---- 0.07018502135739671
+Bizkaia --> P.Local = 0.11952411013871185 ::: Clase = Clase 1 ---- 0.06816316086128814
+Zamora --> P.Local = 0.10392938005708928 ::: Clase = Clase 1 ---- 0.08375789094291071
+Zaragoza --> P.Local = 0.12063459531860925 ::: Clase = Clase 1 ---- 0.06705267568139074
+Ceuta --> P.Local = 0.0030332156021011403 ::: Clase = Clase 3 ---- 1.7619139789885972E-4
+Melilla --> P.Local = 0.004845923750796601 ::: Clase = Clase 3 ---- 0.0016365167507966013

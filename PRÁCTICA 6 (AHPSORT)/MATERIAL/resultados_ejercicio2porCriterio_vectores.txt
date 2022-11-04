@@ -1,0 +1,50 @@
+CLASIFICACIÓN LOCAL POR CADA UNO DE LOS CRITERIOS RESPECTO A LOS CPs CORRESPONDIENTES A CADA CRITERIO.
+
+CRITERIO --> Crímenes:
+CLASE 1 = [Alicante, Ávila, Burgos, Cuenca, Guadalajara, Huelva, Rioja, Lugo, Ourense, Asturias, Palencia, Pontevedra, Cantabria, Segovia, Soria, Bizkaia, Zaragoza, Ceuta]
+
+
+CLASE 2 = [Álava, Albacete, Almería, Badajoz, Balears, Barcelona, Cáceres, Cádiz, Castellón, Ciudad Real, Córdoba, Coruña, Girona, Granada, Gipuzkoa, Huesca, Jaén, León, Lleida, Madrid, Málaga, Murcia, Navarra, Palmas, Salamanca, Santa Cruz, Sevilla, Tarragona, Toledo, Valencia, Valladolid, Zamora]
+
+
+CLASE 3 = [Teruel, Melilla]
+
+
+CRITERIO --> Robos:
+CLASE 1 = []
+
+
+CLASE 2 = [Álava, Albacete, Ávila, Badajoz, Burgos, Cáceres, Cádiz, Ciudad Real, Córdoba, Coruña, Cuenca, Granada, Guadalajara, Gipuzkoa, Huelva, Huesca, Jaén, León, Lleida, Rioja, Lugo, Navarra, Ourense, Asturias, Palencia, Palmas, Pontevedra, Salamanca, Cantabria, Segovia, Soria, Teruel, Valladolid, Zamora, Zaragoza, Ceuta]
+
+
+CLASE 3 = [Alicante, Almería, Balears, Barcelona, Castellón, Girona, Madrid, Málaga, Murcia, Santa Cruz, Sevilla, Tarragona, Toledo, Valencia, Bizkaia, Melilla]
+
+
+CRITERIO --> Relacionado con Vehículos:
+CLASE 1 = [Álava, Albacete, Ávila, Badajoz, Burgos, Cáceres, Ciudad Real, Gipuzkoa, Huesca, Jaén, León, Rioja, Lugo, Navarra, Ourense, Asturias, Palencia, Salamanca, Cantabria, Segovia, Soria, Teruel, Valladolid, Bizkaia, Zamora, Ceuta]
+
+
+CLASE 2 = [Alicante, Almería, Cádiz, Castellón, Córdoba, Coruña, Cuenca, Granada, Guadalajara, Huelva, Lleida, Málaga, Murcia, Palmas, Pontevedra, Santa Cruz, Toledo, Valencia, Zaragoza]
+
+
+CLASE 3 = [Balears, Barcelona, Girona, Madrid, Sevilla, Tarragona, Melilla]
+
+
+CRITERIO --> Orden Público:
+CLASE 1 = [Ávila, Badajoz, Barcelona, Cáceres, Ciudad Real, Córdoba, Coruña, Cuenca, Guadalajara, Huelva, Huesca, Jaén, León, Lleida, Lugo, Ourense, Pontevedra, Salamanca, Cantabria, Segovia, Soria, Teruel, Toledo, Valladolid, Bizkaia, Zamora]
+
+
+CLASE 2 = [Álava, Albacete, Alicante, Almería, Balears, Burgos, Cádiz, Castellón, Girona, Granada, Gipuzkoa, Rioja, Madrid, Málaga, Murcia, Navarra, Asturias, Palencia, Palmas, Santa Cruz, Sevilla, Tarragona, Valencia, Zaragoza]
+
+
+CLASE 3 = [Ceuta, Melilla]
+
+
+CRITERIO --> Drogas:
+CLASE 1 = [Álava, Ávila, Burgos, Cuenca, Guadalajara, Huelva, Lugo, Ourense, Palencia, Pontevedra, Cantabria, Segovia, Soria, Bizkaia, Zamora, Zaragoza]
+
+
+CLASE 2 = [Albacete, Alicante, Almería, Badajoz, Balears, Barcelona, Cáceres, Cádiz, Castellón, Ciudad Real, Córdoba, Coruña, Girona, Granada, Gipuzkoa, Huesca, Jaén, León, Lleida, Rioja, Madrid, Málaga, Murcia, Navarra, Asturias, Palmas, Salamanca, Santa Cruz, Sevilla, Tarragona, Teruel, Toledo, Valencia, Valladolid]
+
+
+CLASE 3 = [Ceuta, Melilla]

@@ -1,0 +1,9 @@
+CLASIFICACIÓN GLOBAL DE LAS ALTERNATIVAS RESPECTO A LOS CPs GLOBALES. 
+
+CLASE 1 = [Ávila, Burgos, Cuenca, Lugo, Palencia, Segovia, Soria]
+
+
+CLASE 2 = [Álava, Albacete, Alicante, Almería, Badajoz, Balears, Barcelona, Cáceres, Cádiz, Castellón, Ciudad Real, Córdoba, Coruña, Girona, Granada, Guadalajara, Gipuzkoa, Huelva, Huesca, Jaén, León, Lleida, Rioja, Madrid, Málaga, Murcia, Navarra, Ourense, Asturias, Palmas, Pontevedra, Salamanca, Santa Cruz, Cantabria, Sevilla, Tarragona, Teruel, Toledo, Valencia, Valladolid, Bizkaia, Zamora, Zaragoza]
+
+
+CLASE 3 = [Ceuta, Melilla]
